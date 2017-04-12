@@ -2,7 +2,7 @@ C# (C Sharp)
 =====================================
 
 ## Goal 
-Find out how I should do to improve my skill after curriculum 
+Find out how I should do to improve C# my skill after curriculum 
 
 List of the things to do for C# after doing curriculum
 -------------------------------------
